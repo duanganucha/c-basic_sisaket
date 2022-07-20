@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\bin\Debug\net6.0\ConsoleApp2_Array.exe
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\bin\Debug\net6.0\ConsoleApp2_Array.deps.json
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\bin\Debug\net6.0\ConsoleApp2_Array.runtimeconfig.json
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\bin\Debug\net6.0\ConsoleApp2_Array.dll
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\bin\Debug\net6.0\ref\ConsoleApp2_Array.dll
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\bin\Debug\net6.0\ConsoleApp2_Array.pdb
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\obj\Debug\net6.0\ConsoleApp2_Array.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\obj\Debug\net6.0\ConsoleApp2_Array.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\obj\Debug\net6.0\ConsoleApp2_Array.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\obj\Debug\net6.0\ConsoleApp2_Array.AssemblyInfo.cs
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\obj\Debug\net6.0\ConsoleApp2_Array.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\obj\Debug\net6.0\ConsoleApp2_Array.dll
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\obj\Debug\net6.0\ref\ConsoleApp2_Array.dll
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\obj\Debug\net6.0\ConsoleApp2_Array.pdb
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_Array\obj\Debug\net6.0\ConsoleApp2_Array.genruntimeconfig.cache

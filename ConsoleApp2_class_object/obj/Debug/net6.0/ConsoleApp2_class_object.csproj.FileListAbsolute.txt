@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\bin\Debug\net6.0\ConsoleApp2_class_object.exe
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\bin\Debug\net6.0\ConsoleApp2_class_object.deps.json
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\bin\Debug\net6.0\ConsoleApp2_class_object.runtimeconfig.json
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\bin\Debug\net6.0\ConsoleApp2_class_object.dll
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\bin\Debug\net6.0\ref\ConsoleApp2_class_object.dll
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\bin\Debug\net6.0\ConsoleApp2_class_object.pdb
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\obj\Debug\net6.0\ConsoleApp2_class_object.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\obj\Debug\net6.0\ConsoleApp2_class_object.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\obj\Debug\net6.0\ConsoleApp2_class_object.AssemblyInfo.cs
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\obj\Debug\net6.0\ConsoleApp2_class_object.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\obj\Debug\net6.0\ConsoleApp2_class_object.dll
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\obj\Debug\net6.0\ref\ConsoleApp2_class_object.dll
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\obj\Debug\net6.0\ConsoleApp2_class_object.pdb
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_class_object\obj\Debug\net6.0\ConsoleApp2_class_object.genruntimeconfig.cache

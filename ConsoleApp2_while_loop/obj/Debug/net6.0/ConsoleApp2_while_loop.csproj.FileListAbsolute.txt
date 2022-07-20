@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\bin\Debug\net6.0\ConsoleApp2_while_loop.exe
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\bin\Debug\net6.0\ConsoleApp2_while_loop.deps.json
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\bin\Debug\net6.0\ConsoleApp2_while_loop.runtimeconfig.json
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\bin\Debug\net6.0\ConsoleApp2_while_loop.dll
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\bin\Debug\net6.0\ref\ConsoleApp2_while_loop.dll
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\bin\Debug\net6.0\ConsoleApp2_while_loop.pdb
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\obj\Debug\net6.0\ConsoleApp2_while_loop.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\obj\Debug\net6.0\ConsoleApp2_while_loop.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\obj\Debug\net6.0\ConsoleApp2_while_loop.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\obj\Debug\net6.0\ConsoleApp2_while_loop.AssemblyInfo.cs
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\obj\Debug\net6.0\ConsoleApp2_while_loop.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\obj\Debug\net6.0\ConsoleApp2_while_loop.dll
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\obj\Debug\net6.0\ref\ConsoleApp2_while_loop.dll
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\obj\Debug\net6.0\ConsoleApp2_while_loop.pdb
+\\Mac\Home\Desktop\c# training Ubon\WorkShopAPI\ConsoleApp1\ConsoleApp2_while_loop\obj\Debug\net6.0\ConsoleApp2_while_loop.genruntimeconfig.cache
